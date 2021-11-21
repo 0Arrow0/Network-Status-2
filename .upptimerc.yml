@@ -4,9 +4,9 @@ repo: Network-Status-2 # The name of this repository
 
 sites:
   - name: Artemis
-    url: https://artemis.alru.xyz
+    url: https://artemis.alru.xyz:8080
   - name: Mercury
-    url: https://mercury.alru.xyz
+    url: https://mercury.alru.xyz:8082
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

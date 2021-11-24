@@ -4,25 +4,27 @@
     "url": "https://artemis.alru.xyz:8080",
     "icon": "https://favicons.githubusercontent.com/artemis.alru.xyz",
     "slug": "artemis",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 620,
     "timeDay": 602,
     "timeWeek": 620,
     "timeMonth": 620,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-24": 1
+    }
   },
   {
     "name": "Mercury",
     "url": "https://mercury.alru.xyz:8081",
     "icon": "https://favicons.githubusercontent.com/mercury.alru.xyz",
     "slug": "mercury",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 608,
     "timeMonth": 608,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-24": 0
+    }
   }
 ]

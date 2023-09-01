@@ -6,8 +6,7 @@ sites:
   - name: Bum Survival
     url: http://bum-survival.minecraft.party:25565
     expectedStatusCodes:
-      - 200
-      - 401
+      - 0
 
 
 status-website:

@@ -4,19 +4,19 @@
     "url": "http://bum-survival.minecraft.party:25565",
     "icon": "https://icons.duckduckgo.com/ip3/bum-survival.minecraft.party.ico",
     "slug": "bum-survival",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "status": "up",
+    "uptime": "0.94%",
+    "uptimeDay": "0.94%",
+    "uptimeWeek": "0.94%",
+    "uptimeMonth": "0.94%",
+    "uptimeYear": "0.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-01": 1
+      "2023-09-01": 4
     }
   }
 ]
